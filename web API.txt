@@ -1,0 +1,222 @@
+Evri (Product company)
+
+First round - written 
+string immutable 
+string and string builder 
+GC and collector 
+int 32 - integre 
+int 64 - long 
+protocol - http 
+
+Second round : 
+tell about yourself 
+try and catch 
+generic 
+Interface 
+dependency injection 
+exception handling 
+routing 
+WCF and WPF 
+
+Third round : 
+Aws syntax (API syntax, handler)
+Middle ware (app.use, useMVC)
+project explain 
+redis storage 
+URL, how to grasp the controller 
+
+Fourth round: 
+
+Analytical 
+--------------------------------------------------------------------------------
+Overall questions: 
+
+Threading 
+CLR m 
+Garbage collector 
+dispose and finalize
+    - In which suitations we need to dispose 
+generics program 
+program for single digit 
+program string reverse
+abstract  
+static vs singleton design pattern
+singeton syntax 
+middleware 
+dictonary and hashtable 
+entity frameworf approach types
+s3: object type 
+ - types of S3 
+
+- solid principle 
+- LinQ
+- attribute routing 
+- conventional routing 
+- lamnda limitations 
+
+actions filters - authentications, exceptions , result 
+
+SQL -
+ SP vs functions 
+trigger types 
+clustered and non clustered 
+
+Serverless : 
+- serverless template 
+    - Functions handler 
+    - 
+ 
+
+ ------------------------------
+ Northern lights : 
+1. Access specifier
+2. collections - dictonary, generic, hashtable .. what are the collections used in C# 
+3. using (object disposal)
+4. what are the list of exceptions (args, SQL exceptions, null reference) using try catch 
+5. multiple catch block 
+6. abstract and interface 
+7. controller
+8. action method in controller 
+9. data annotations 
+10 ASP.net 
+11. program challenge 
+
+SQL: 
+12. transactions in sql
+13. indexes - clustered index and non-clustered index 
+14. Group by 
+15. triggers 
+
+
+
+
+To Do : 
+1. Amazon ES 
+2. Fat Lambda 
+3. Redux in React 
+4. Kubernetes 
+5. Dockers 
+6. Active directory or LDAP
+7. Fargate 
+
+-----------------------------------------------------------------
+
+Web Developement : 
+Package managers like NPM, Yarn, Bower.
+What is ECMA?
+ES5 vs 6, 7, 8; Typescript.
+Transpilers like Babel.
+Bundlers like Grunt, Webpack.
+Must use linting tools in your IDEs.
+
+------------------------------------------------------------------
+
+To do per call: 
+1. Versioning
+2. Toggl 
+3. VSTS Tickets - Create stories 
+4. Employee Dashboard API review 
+5. Design document 
+6. Save Feature 
+7. column custom 
+8. Smart Parameters 
+8. Multiple company 
+
+already 2 rounds done on saturday
+UI: 
+1. value field validations 
+2. Footer issue
+3. result set Grid should not be have scroll 
+
+https://its-training.signin.aws.amazon.com/console
+
+--- 
+^y*06U6uw3kt7up
+--- 
+
+1. Web accessibility readiness 
+2. Security design 
+3. Code Inspection 
+    3.1 Code coverage 
+    3.2 Duplications 
+4.Support 
+    4.1 Patches 
+
+
+
+
+Rent - 7500 - done 
+Seetu - 4000 - done 
+Ac EMI - 3500 - done 
+Veggis - 1500 
+Act bill - 1300 
+Lings - 800 - 
+Radha stores - 2000
+Post office - 2000 - - done 
+GRT - 3000
+-- 2000 ? 
+extra - 1000
+
+= 26600 
++- 39000
+
+------------------------------------------
+
+Threading 
+CLR m 
+Garbage collector 
+dispose and finalize
+    - In which suitations we need to dispose 
+generics program 
+program for single digit 
+program string reverse
+abstract  
+static vs singleton design pattern
+singeton syntax 
+middleware 
+dictonary and hashtable 
+entity frameworf approach types
+s3: object type 
+ - types of S3 
+- 
+- solid principle 
+- LinQ
+- attribute routing 
+- conventional routing 
+- lamnda limitations 
+
+actions filters - authentications, exceptions , result 
+
+SQL -
+ SP vs functions 
+trigger types 
+clustered and non clustered 
+
+Serverless : 
+- serverless template 
+    - Functions handler 
+    - 
+
+
+email 
+payslip 
+raise letter
+date of joining 
+resign letter 
+form 16 
+PF (vivek)
+IT submission 
+Project 
+----------------------------
+
+global assembly cache
+destuctor use 
+reflection
+arraylist vs list
+yield keyword
+deadlock c#
+web api return types
+Common table exp
+magic table
+cors
+cors with web.config
