@@ -14,7 +14,7 @@ try and catch
 generic 
 Interface 
 dependency injection 
-exception handling 
+exception handling rtgerg
 routing 
 WCF and WPF 
 
